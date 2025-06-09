@@ -1,0 +1,5 @@
+[project]
+name = "awesome-ai-tokenomics"
+version = "0.1.0"
+description = "A curated list on AI token economics: what tokens cost, where they get wasted, and how to cut the bill. Tools, benchmarks, papers, and copy-paste configs for the token economy of LLMs and coding agents."
+requires-python = ">=3.10"

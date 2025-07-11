@@ -5,3 +5,4 @@ description = "A curated list on AI token economics: what tokens cost, where the
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# match the style used in the rest of the module

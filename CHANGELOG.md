@@ -30,3 +30,4 @@
 - docs: clarify the setup steps
 - docs: link the usage section
 - docs: fix a small wording issue
+- fix: add a note about the defaults
